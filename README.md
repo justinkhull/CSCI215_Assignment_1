@@ -1,4 +1,4 @@
-# Assignment_1
+# Assignment_1   Justin Hull  http://hullj1.students.cofc.edu/portfolio/
 
 ## Due 14 Sep 2017, 11:59pm
 
